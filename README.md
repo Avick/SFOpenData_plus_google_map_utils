@@ -16,13 +16,13 @@ Related to app
 
 * made an abstract class BaseMapActivity to write initial maps setup code.
 
-Improvement (due to time, proper API and icons)
+Improvement (not happening due to time, proper API and icons)
 --------
 
 * I would have shown only nearby trucks if there are proper API belongs to our location. 
 
 * I would have add filter options in the app.
 
-* I would use firebase or run a service to update the data in real-time about truck location. 
+* I would use firebase or run a service to update the truck location data in real-time. 
 
 * I could use better icons to show the trucks on the map. 

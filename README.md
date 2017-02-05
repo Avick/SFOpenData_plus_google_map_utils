@@ -1,1 +1,11 @@
-# SFOpenData_plus_google_map_utils
+#### An app which which show foodtrucks in san francisco area
+
+-------
+used
+
+- Google Maps API 
+- OpenSfData for nearby foodtruck 
+
+* read the data from raw/sample_truck_nearby.json
+
+* used Google Maps Android Marker Clustering Utility for storing 100 markers in more optimized way.
